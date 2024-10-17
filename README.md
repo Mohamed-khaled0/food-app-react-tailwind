@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+![180659905-25df4a63-6f62-4a09-85a5-86803d7796b2](https://github.com/user-attachments/assets/59c9ce67-ce72-4ef0-8b62-39ffff4925ae)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Resturant Website
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This is a **React-based project** that displays a collection of food items with filtering options. Users can filter the food items by type (e.g., burgers, pizza, salads, chicken) and by price range (less than $50, $100, $200, or $300).
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Display a list of top-rated menu items with images and prices.
+- Filter menu items by food type (e.g., burgers, pizza, salads, chicken).
+- Filter menu items by price (e.g., less than $50, $100, $200, $300).
+- Responsive design with a smooth hover and scaling effect for each food item.
+  
+## Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can view the live demo of the project [here](https://restaurant-app-react-tailwind.netlify.app/).
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**: Frontend framework to build the user interface.
+- **JavaScript (ES6+)**: Used for handling state, filtering logic, and rendering dynamic content.
+- **Tailwind CSS**: Used for styling the components and ensuring responsive design.
+- **HTML5**: Structure and layout for the page.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run this project locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   git clone https://github.com/Mohamed-khaled0/food-app-react-tailwind.git
