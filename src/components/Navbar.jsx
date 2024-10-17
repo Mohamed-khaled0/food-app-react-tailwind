@@ -9,7 +9,6 @@ import { BsFillCartFill, BsFillSaveFill } from "react-icons/bs";
 import { FaUserFriends, FaWallet } from "react-icons/fa";
 import { MdFavorite, MdHelp } from "react-icons/md";
 import { TbTruckDelivery } from "react-icons/tb";
-
 export default function Navbar() {
   const [nav, setNav] = useState(false);
 
