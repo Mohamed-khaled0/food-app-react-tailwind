@@ -58,9 +58,8 @@ export default function Food() {
                     <p className='font-bold p-1' > {item.name}</p>
                     <p className='bg-orange-400 text-white rounded-full p-1 '> <span>${item.price}</span></p>
                 </div>
-
             </div>
-        );
+        ); 
     })}
      </div>
     </div>
